@@ -6,8 +6,12 @@ Ignora outros caminhos.
 
 
 
---
-Entrar a menor rota até o destino.      
+
+
+
+
+
+Encontrar a menor rota até o destino.      
 
 - Nem sempre a melhor abordagem
 
