@@ -6,7 +6,6 @@ Ignora outros caminhos.
 
 
 
-.Programa
 --
 Entrar a menor rota até o destino.      
 
